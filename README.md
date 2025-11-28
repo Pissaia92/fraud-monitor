@@ -31,13 +31,13 @@ financial impact immediately on a Command Center Dashboard.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Pissaia92/fraud-detection-system.git
+   git clone https://github.com/Pissaia92/fraud-monitor.git
    ```
 
 2.  **Start the cluster:**
 
     ```bash
-    cd fraud-detection-system
+    cd fraud-monitor
     docker-compose up -d --build
     ```
 
